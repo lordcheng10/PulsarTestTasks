@@ -1,0 +1,19 @@
+
+E
+java:S3740$"/Provide the parametrized type for this generic.(ĞØ§­
+J
+java:S3740*"/Provide the parametrized type for this generic.(üû•ëúÿÿÿÿ
+Q
+java:S37402"/Provide the parametrized type for this generic.(óìÆ˜ûÿÿÿÿ8áË´Ê/
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(Š¥µ…ùÿÿÿÿ
+N	java:S106."9Replace this use of System.out or System.err by a logger.(®ö£Ñ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.(Ï¼ä×
+S	java:S1065"9Replace this use of System.out or System.err by a logger.(×¤Ğùüÿÿÿÿ
+h
+java:S1128"KRemove this unused import 'org.apache.pulsar.common.util.RelativeTimeUtil'.(ÄÙÈ³8ùÕÑ´Ê/
+_
+java:S22594"BA "NullPointerException" could be thrown; "msg2" is nullable here.(íõæ™8ÃË´Ê/
+^
+java:S2259-"BA "NullPointerException" could be thrown; "msg1" is nullable here.(î«½8ÖÑ´Ê/
+\
+java:S2095"FUse try-with-resources or close this "Producer" in a "finally" clause.(«À˜ê
